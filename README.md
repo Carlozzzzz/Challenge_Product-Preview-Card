@@ -21,7 +21,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### The challenge
-
+1
 
 Build out the product preview card component and get it looking as close to the design as possible.
 
@@ -133,15 +133,15 @@ I want to continue learning how to create a better responsive website especially
 ## Author
 
 - Website - [Carlos Romulo Maralit](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 I would like to thank this channel for the video tutorial about responsive websites.
 - [Dani Krossing](https://www.youtube.com/c/TheCharmefis)
+
+I would like to thank Dr. Angela for being my mentor, I learn a lot in her course and still continueing the learning.
+- [Dr. Angela](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 I would like to thanks the folowwing websites for being an excellent source of written articles that help the begginers like to understand the basics of website development.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)https://www.w3schools.com/
