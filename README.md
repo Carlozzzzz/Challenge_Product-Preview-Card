@@ -40,7 +40,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+- Solution URL: [Github Files](https://github.com/Carlozzzzz/Product-Preview-Card-Challenge)
 - Live Site URL: [Github](https://carlozzzzz.github.io/Product-Preview-Card-Challenge/)
 
 ## My process
