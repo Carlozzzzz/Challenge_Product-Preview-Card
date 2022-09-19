@@ -152,3 +152,7 @@ I would like to thank the source of this challenge, it really squize my brain co
 
 <!-- ###Questions
 How to use landmark properly? -->
+
+<!-- ###Notes
+-semantic tags
+ -->
