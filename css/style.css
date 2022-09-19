@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(30, 38%, 92%);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Fraunces', serif;
+    color: hsl(212, 21%, 14%);
+    font-weight: 700;
+}
+
+p {
+    font-size: 14px;
+    color: hsl(158, 36%, 37%);
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.wrapper {
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: row;
+    overflow: hidden;
+    align-items: center;
+    width: 50%;
+}
+
+.img-desktop {
+    display: block;
+    width: 50%;
+}
+
+.img-mobile {
+    display: none
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 20px;
+    width: 50%;
+
+}
+
+.product-type {
+    letter-spacing: .5em;
+}
+
+.product-name {
+    margin: 10px 0;
+}
+
+.product-desc {
+    line-height: 1.5;
+    margin: 10px 0;
+}
+
+.price {
+    display: flex;
+    align-items: center;
+}
+
+.price .bluff {
+    margin-left: 30px;
+}
+
+
+.product-info .btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    background: hsl(158, 36%, 37%);
+    padding: 15px 60px 15px 60px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background: hsl(158, 36%, 37%);
+    background-image: -webkit-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -moz-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -ms-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: -o-linear-gradient(top, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    background-image: linear-gradient(to bottom, hsl(158, 36%, 37%), hsl(158, 36%, 37%));
+    text-decoration: none;
+}
+
+@media (max-width:375px) {
+    .wrapper {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .wrapper .img-desktop {
+        display: none;
+    }
+
+    .wrapper .img-mobile {
+        width: 100%;
+        display: block;
+    }
+
+    .product-info {
+        width: 100%;
+    }
+
+
+
+
+}
