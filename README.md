@@ -40,8 +40,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
+- Live Site URL: [Github](https://carlozzzzz.github.io/Product-Preview-Card-Challenge/)
 
 ## My process
 
@@ -147,3 +147,5 @@ I would like to thanks the folowwing websites for being an excellent source of w
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)https://www.w3schools.com/
 -[W3schools](https://www.w3schools.com/)
 
+I would like to thank the source of this challenge, it really squize my brain completing this challenge
+-[Frontent Mentor](https://www.frontendmentor.io/home)
