@@ -15,6 +15,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+- [Notes](#notes)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -153,6 +154,6 @@ I would like to thank the source of this challenge, it really squize my brain co
 <!-- ###Questions
 How to use landmark properly? -->
 
-<!-- ###Notes
+## Notes
 -semantic tags
  -->
