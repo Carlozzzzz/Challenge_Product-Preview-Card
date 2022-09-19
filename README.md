@@ -94,7 +94,7 @@ The designs were created to the following widths:
 
 ### What I learned
 
-I learn the basics of responsive website which incates the mobile view first and he use of media queries. Although it's challenging, but I find it enjoyable to code and see your final output. I also learn some CSS grid basic eventhough I didn't use it on this challenge. 
+I learn the basics of responsive website which indicates the mobile view first and he use of media queries. Although it's challenging, but I find it enjoyable to code and see your final output. I also learn some CSS grid basic eventhough I didn't use it on this challenge. 
 
 
 I'm proud that I've learn this codes in this challenge.
