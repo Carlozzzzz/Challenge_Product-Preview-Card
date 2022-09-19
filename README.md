@@ -21,7 +21,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### The challenge
-1
 
 Build out the product preview card component and get it looking as close to the design as possible.
 
