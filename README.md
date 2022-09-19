@@ -145,7 +145,7 @@ I would like to thank Dr. Angela for being my mentor, I learn a lot in her cours
 
 I would like to thanks the folowwing websites for being an excellent source of written articles that help the begginers like to understand the basics of website development.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)https://www.w3schools.com/
--[W3schools](https://www.w3schools.com/)
+- [W3schools](https://www.w3schools.com/)
 
 I would like to thank the source of this challenge, it really squize my brain completing this challenge
 -[Frontent Mentor](https://www.frontendmentor.io/home)
