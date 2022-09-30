@@ -41,7 +41,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Github Files](https://github.com/Carlozzzzz/Product-Preview-Card-Challenge)
-- Live Site URL: [Github](https://carlozzzzz.github.io/Product-Preview-Card-Challenge/)
+- Live Site URL: [Github](https://carlozzzzz.github.io/Challenge_Product-Preview-Card/)
 
 ## My process
 
